@@ -1,1 +1,5 @@
-# vision_computadora_i
+# Visión por Computadora I
+
+## Grupo
+### Rodrigo Carranza
+### Federico Otero
